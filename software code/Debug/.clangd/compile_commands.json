@@ -1,0 +1,102 @@
+[
+   {
+      "directory" : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug",
+      "command"   : "clang++ -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source\" -D__MSPM0G3507__ -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug/syscfg\" -xc",
+      "file"      : "C:/MSPM0_ValvanoWare/inc/ADC1.c"
+   },
+   {
+      "directory" : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug",
+      "command"   : "clang++ -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source\" -D__MSPM0G3507__ -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug/syscfg\" -xc",
+      "file"      : "C:/MSPM0_ValvanoWare/inc/Arabic.c"
+   },
+   {
+      "directory" : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug",
+      "command"   : "clang++ -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source\" -D__MSPM0G3507__ -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug/syscfg\" -xc",
+      "file"      : "C:/MSPM0_ValvanoWare/inc/Clock.c"
+   },
+   {
+      "directory" : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug",
+      "command"   : "clang++ -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source\" -D__MSPM0G3507__ -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug/syscfg\" -xc",
+      "file"      : "C:/MSPM0_ValvanoWare/inc/DAC5.c"
+   },
+   {
+      "directory" : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug",
+      "command"   : "clang++ -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source\" -D__MSPM0G3507__ -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug/syscfg\" -xc",
+      "file"      : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/LED.c"
+   },
+   {
+      "directory" : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug",
+      "command"   : "clang++ -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source\" -I\"C:/MSPM0_ValvanoWare/SDCFilecpp\" -D__MSPM0G3507__ -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug/syscfg\" -xc",
+      "file"      : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/Lab9Main.c"
+   },
+   {
+      "directory" : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug",
+      "command"   : "clang++ -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source\" -D__MSPM0G3507__ -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug/syscfg\" -xc",
+      "file"      : "C:/MSPM0_ValvanoWare/inc/LaunchPad.c"
+   },
+   {
+      "directory" : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug",
+      "command"   : "clang++ -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source\" -D__MSPM0G3507__ -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug/syscfg\" -xc",
+      "file"      : "C:/MSPM0_ValvanoWare/inc/SPI.c"
+   },
+   {
+      "directory" : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug",
+      "command"   : "clang++ -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source\" -D__MSPM0G3507__ -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug/syscfg\" -xc",
+      "file"      : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/SmallFont.c"
+   },
+   {
+      "directory" : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug",
+      "command"   : "clang++ -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source\" -D__MSPM0G3507__ -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug/syscfg\" -xc",
+      "file"      : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/Sound.c"
+   },
+   {
+      "directory" : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug",
+      "command"   : "clang++ -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source\" -D__MSPM0G3507__ -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug/syscfg\" -xc",
+      "file"      : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/Switch.c"
+   },
+   {
+      "directory" : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug",
+      "command"   : "clang++ -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source\" -D__MSPM0G3507__ -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug/syscfg\" -xc",
+      "file"      : "C:/MSPM0_ValvanoWare/inc/Timer.c"
+   },
+   {
+      "directory" : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug",
+      "command"   : "clang++ -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source\" -D__MSPM0G3507__ -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug/syscfg\" -xc",
+      "file"      : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/images/pipedreams/PipeSound.c"
+   },
+   {
+      "directory" : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug",
+      "command"   : "clang++ -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source\" -D__MSPM0G3507__ -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug/syscfg\" -xc",
+      "file"      : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/ticlang/startup_mspm0g3507_ticlang.c"
+   },
+   {
+      "directory" : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug",
+      "command"   : "clang++ -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source\" -D__MSPM0G3507__ -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug/syscfg\" -xc",
+      "file"      : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/DAC.c"
+   },
+   {
+      "directory" : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug",
+      "command"   : "clang++ -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source\" -D__MSPM0G3507__ -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug/syscfg\" -xc",
+      "file"      : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/Japan.c"
+   },
+   {
+      "directory" : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug",
+      "command"   : "clang++ -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source\" -D__MSPM0G3507__ -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug/syscfg\" -xc",
+      "file"      : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/ST7735.c"
+   },
+   {
+      "directory" : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug",
+      "command"   : "clang++ -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source\" -D__MSPM0G3507__ -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug/syscfg\" -xc",
+      "file"      : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/diskio.c"
+   },
+   {
+      "directory" : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug",
+      "command"   : "clang++ -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source\" -D__MSPM0G3507__ -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug/syscfg\" -xc",
+      "file"      : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/JoyStick.c"
+   },
+   {
+      "directory" : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug",
+      "command"   : "clang++ -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_09_00_01/source\" -D__MSPM0G3507__ -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"C:/TI/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -I\"C:/MSPM0_ValvanoWare/ECE319K_Lab9/Debug/syscfg\" -xc",
+      "file"      : "C:/MSPM0_ValvanoWare/ECE319K_Lab9/ADC.c"
+   }
+]
